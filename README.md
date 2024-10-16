@@ -34,7 +34,7 @@ This repository contains comprehensive materials for the Artificial Intelligence
    ```
 6. Push to the branch.
    ```bash
-git push origin feature/YourFeature
+   git push origin feature/YourFeature
     ```
 8. Open a pull request.
 
