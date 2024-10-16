@@ -9,9 +9,12 @@ This repository contains comprehensive materials for the Artificial Intelligence
 - Practical Implementations
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/your-repo-name.git`
-2. Navigate to the desired folder to access materials.
-3. Follow the instructions in each folder's README for specific guidance.
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+   ```
+3. Navigate to the desired folder to access materials.
+4. Follow the instructions in each folder's README for specific guidance.
 
 ## Prerequisites
 - Basic knowledge of AI concepts.
@@ -20,13 +23,19 @@ This repository contains comprehensive materials for the Artificial Intelligence
 
 ## Contributing
 1. Fork the repository.
-2. Create your feature branch
+2. Create your feature branc.
    ```bash
    git checkout -b feature/YourFeature
    ```
-4. Commit your changes: `git commit -m 'Add some YourFeature'`
-5. Push to the branch: `git push origin feature/YourFeature`
-6. Open a pull request.
+4. Commit your changes.
+   ```bash
+   git commit -m 'Add some YourFeature
+   ```
+6. Push to the branch.
+```bash
+git push origin feature/YourFeature
+```
+8. Open a pull request.
 
 ## Acknowledgements
 - SPPU and faculty for providing the course structure and guidance.
