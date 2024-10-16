@@ -20,6 +20,8 @@ This repository contains comprehensive materials for the Artificial Intelligence
 - Basic knowledge of AI concepts.
 - Python 3.x installed on your system.
 - Necessary libraries such as NumPy, Pandas, scikit-learn, TensorFlow, etc.
+- Java installed on your system.
+- C ++ installed on your system.
 
 ## Contributing
 1. Fork the repository.
