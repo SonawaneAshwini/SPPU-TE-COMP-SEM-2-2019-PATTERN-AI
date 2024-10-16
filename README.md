@@ -20,11 +20,14 @@ This repository contains comprehensive materials for the Artificial Intelligence
 
 ## Contributing
 1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add some YourFeature'`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a pull request.
+2. Create your feature branch
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+4. Commit your changes: `git commit -m 'Add some YourFeature'`
+5. Push to the branch: `git push origin feature/YourFeature`
+6. Open a pull request.
 
 ## Acknowledgements
-- Thanks to Prof. [Name] for the valuable lectures and materials.
-- Thanks to all contributors who helped improve this repository.
+- SPPU and faculty for providing the course structure and guidance.
+- Classmates and peers for collaboration and support throughout the semester.
