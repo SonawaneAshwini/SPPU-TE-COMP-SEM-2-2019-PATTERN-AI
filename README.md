@@ -32,9 +32,9 @@ This repository contains comprehensive materials for the Artificial Intelligence
    git commit -m 'Add some YourFeature
    ```
 6. Push to the branch.
-```bash
+   ```bash
 git push origin feature/YourFeature
-```
+    ```
 8. Open a pull request.
 
 ## Acknowledgements
