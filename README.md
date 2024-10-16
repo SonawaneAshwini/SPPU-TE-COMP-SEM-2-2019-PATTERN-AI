@@ -5,7 +5,6 @@ This repository contains comprehensive materials for the Artificial Intelligence
 ## Contents
 - Lecture Notes
 - Assignments
-- Projects
 - Practical Implementations
 
 ## Usage
