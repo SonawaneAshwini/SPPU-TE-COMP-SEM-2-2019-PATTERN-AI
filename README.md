@@ -1,5 +1,4 @@
 # SPPU-TE-COMP-SEM-2-2019-PATTERN-AI
-
 This repository contains comprehensive materials for the Artificial Intelligence course in the second semester of the 2019 pattern for the Computer Engineering program at SPPU. Included are lecture notes, assignments, projects, and practical implementations covering key theoretical concepts from the curriculum.
 
 ## Contents
