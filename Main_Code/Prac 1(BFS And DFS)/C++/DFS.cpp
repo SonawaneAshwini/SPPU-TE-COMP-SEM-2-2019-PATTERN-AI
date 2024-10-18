@@ -35,7 +35,6 @@ private:
     }
 };
 
-
 int main() {
     int n;
     std::cout << "Enter the size of the graph: ";
