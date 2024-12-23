@@ -10,7 +10,7 @@ This repository contains comprehensive materials for the Artificial Intelligence
 ## Usage
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ShravanDalavi/your-repo-name.git
    ```
 3. Navigate to the desired folder to access materials.
 4. Follow the instructions in each folder's README for specific guidance.
